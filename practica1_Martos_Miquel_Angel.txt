@@ -1,1 +1,12 @@
-Miquel Angel Martos Vilella
+comandos utilizados:
+
+git branch (Comprobar las ramas)
+git branch -a (Comprobar TODAS las ramas, incluyendo las que no se ven con el comando anterior)
+git checkout (cambiar de rama)
+git status (comprobar el estado de los archivos)
+git add (preparar archivos para el commit)
+git commit -m "Nombre" (Enviar archivos al repositorio local)
+git push (enviar archivos al repositorio remoto)
+cd (cambiar de directorio)
+cd .. (volver al directorio anterior)
+git merge (juntar dos ramas)
