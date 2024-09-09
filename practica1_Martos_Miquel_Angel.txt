@@ -10,3 +10,4 @@ git push (enviar archivos al repositorio remoto)
 cd (cambiar de directorio)
 cd .. (volver al directorio anterior)
 git merge (juntar dos ramas)
+git
